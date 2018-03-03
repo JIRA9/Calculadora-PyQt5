@@ -1,0 +1,9 @@
+# Carpetas y archivos a ignorar en el repositorios
+# Componentes de Visual Studio Code
+/.vscode
+
+# Componentes de Python
+/__pycache__
+
+# Entorno virtual (virtualenv)
+/.env
