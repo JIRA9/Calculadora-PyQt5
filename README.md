@@ -5,13 +5,22 @@ Es una aplicación *GUI* creada con **PyQt5** y **Python3**, en está *GUI* se m
 
 * Uso de **PyQt5**
 * Creación de *GUI's* con **PyQt5**
-* Modificación de aspectos básicos en **PyQT5** (fuentes, colores, tamaños, posiciones)
+* Modificación de aspectos básicos en **PyQt5** (fuentes, colores, tamaños, posiciones)
 * Uso de estilos en *GUI*
+* Creación de mensajes y dialogos
 
-## Versión actual: *1.0*
+## Características:
+* Guarda en un archivo *"historial.hist"* todas las operaciones que se han realizado
+* Puede utilizar las teclas para manejar más rápido la calculadora:
+    * **[0-9.]:** Escribe le caracter presionado
+    * **[+ - * / (SHIFT+0)]:** Teclas para operar con los número
+    * **[BACKSPACE]:** Borra un caracter del número actual
+    * **[N]:** Pone el número actual en negativo
+
+## Versión actual: *1.1*
 ---
 
-## Requisitos para correr el proyecto:
+### Requisitos para correr el proyecto:
 1. Tener instalado el módulo **PyQt5** en el *entorno virtual (virtualenv)* a utilizar o en *Python* en general.
 
 ### Notas:
