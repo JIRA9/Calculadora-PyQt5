@@ -7,3 +7,6 @@
 
 # Entorno virtual (virtualenv)
 /.env
+
+# Archivos no necesarios creados por el proyecto mismo
+*.hist
