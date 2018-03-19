@@ -13,7 +13,7 @@ Es una aplicación *GUI* creada con **PyQt5** y **Python3**, en está *GUI* se m
 * Guarda en un archivo *"historial.hist"* todas las operaciones que se han realizado
 * Puede utilizar las teclas para manejar más rápido la calculadora:
     * **[0-9.]:** Escribe le caracter presionado
-    * **[+ - * / (SHIFT+0)]:** Teclas para operar con los número
+    * **[+ - * / (SHIFT+0)]:** Teclas para operar con los números
     * **[BACKSPACE]:** Borra un caracter del número actual
     * **[N]:** Pone el número actual en negativo
 
